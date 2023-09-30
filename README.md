@@ -13,5 +13,3 @@ Bring your setup to the modern day with StreamFX! With several super fast filter
 * See BUILDING.md
 * See CONTRIBUTING.md
 .
-
-
